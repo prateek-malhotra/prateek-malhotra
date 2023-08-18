@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **ML models for Solar Energy related projects (Utility scale / Organic Solar Cells))**
 
-- 👨‍💻 All of my projects are available at [prateek-malhotra.github.io](prateek-malhotra.github.io)
+- 👨‍💻 All of my projects are available at [prateek-malhotra.github.io](https://prateek-malhotra.github.io/)
 
 - 💬 Ask me about **Solar Energy, Machine Learning**
 
