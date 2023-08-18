@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prateek Malhotra</h1>
 <h3 align="center">Solar Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prateek-malhotra&label=Profile%20views&color=0e75b6&style=flat" alt="prateek-malhotra" /> </p>
-
 - 🔭 I’m currently working on **SaaS platform for utility scale solar plants**
 
 - 🌱 I’m currently learning **MLOps**
