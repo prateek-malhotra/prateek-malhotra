@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prateek Malhotra</h1>
 <h3 align="center">Solar Analyst</h3>
 
-- 🔭 I’m currently working on **SaaS platform for utility scale solar plants**
+- 🔭 I’m currently working on **building SaaS platform for utility-scale solar plants**
 
 - 🌱 I’m currently learning **MLOps**
 
-- 👯 I’m looking to collaborate on **ML models for Solar Energy related projects (Utility scale / Organic Solar Cells))**
+- 👯 I’m looking to collaborate on **ML models for Solar Energy related projects (Utility-scale / Organic Solar Cells))**
 
 - 👨‍💻 All of my projects are available at [prateek-malhotra.github.io](https://prateek-malhotra.github.io/)
 
