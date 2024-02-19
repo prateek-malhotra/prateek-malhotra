@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prateek Malhotra</h1>
-<h3 align="center">Solar Analyst</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 I’m currently working on **building SaaS platform for utility-scale solar plants**
 
